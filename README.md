@@ -1,5 +1,5 @@
-# BrowserTaskList
-Just a simple TaskList for learning purposes.
-You can add and remove tasks.
-It has an 'AutoSave' feature.
+# BrowserTaskList<br>
+Just a simple TaskList for learning purposes. <br>
+You can add and remove tasks.<br>
+It has an 'AutoSave' feature.<br>
 Take a look at the live-browser version :  https://gnavatasklist.netlify.app
